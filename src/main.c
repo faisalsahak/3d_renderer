@@ -16,7 +16,7 @@ vec3_t camera_position = {.x = 0,.y=0,.z=-5};
 
 float fov_factor = 640;
 
-bool is_running = false;
+bool is_running = false
 
 
 
